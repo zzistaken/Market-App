@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "api": "json-server --watch --port 3005 ./data/products.json"
+      }
+}

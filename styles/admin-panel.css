@@ -1,0 +1,116 @@
+/* HTML */
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/* BODY */
+body {
+    background-color: #1c232f;
+    color: #ffffff;
+}
+/* HEADER */
+header {
+    width: 100%;
+}
+.navbar {
+    padding: 0 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 0.5rem;
+    background-color: #273245;
+}
+.navbar > ul {
+    list-style: none;
+}
+.exitBtn {
+    height: 40px;
+    padding: 0 1rem;
+    background-color: rgb(100, 150, 255);
+    color: #ffffff;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+.exitBtn:hover {
+    background-color: rgba(100, 149, 255, 0.9);
+}
+/* MAIN */
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.controlArea {
+    width: 100%;
+    padding: 0.5rem;
+}
+#productForm {
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: #273245;
+}
+#productForm > input {
+    height: 40px;
+    width: 33%;
+    margin: 0.5rem;
+    padding-left: 0.5rem;
+    border: none;
+    border-radius: 0.5rem;
+    outline: none;
+}
+#productForm > button {
+    height: 40px;
+    width: 100px;
+    margin: 0.5rem;
+    padding: 0 1rem;
+    background-color: rgb(100, 255, 100);
+    color: #000000;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+#productForm > button:hover {
+    background-color: rgba(100, 255, 100, 0.9);
+}
+#updateProductButton {
+    height: 40px;
+    width: 100px;
+    margin: 0.5rem 0.5rem 0 0.5rem;
+    padding: 0 1rem;
+    background-color: gold;
+    color: #000000;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+/* TABLE */
+table {
+    width: 100%;
+    padding: 1rem;
+    text-align: center;
+    border-collapse: collapse;
+    border-radius: 0.5rem;
+    background-color: #273245;
+}
+th {
+    padding: 0.5rem;
+    border-bottom: 1px solid #384459;
+}
+td {
+    padding: 0.5rem;
+}
+tr:nth-child(odd) td {
+    background-color: #313c4e;
+}
+#productTableList > tr > td > img {
+    height: 40px;
+}
+#update,#delete {
+    text-decoration: none;
+}
+#update {
+    color: gold;
+}
+#delete {
+    color: tomato;
+}

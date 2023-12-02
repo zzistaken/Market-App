@@ -1,0 +1,214 @@
+{
+  "products": [
+    {
+      "name": "Apple",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 2.5,
+      "category": "Fruit",
+      "id": 1
+    },
+    {
+      "name": "Tomato",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 3,
+      "category": "Vegetable",
+      "id": 2
+    },
+    {
+      "name": "Banana",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 4.2,
+      "category": "Fruit",
+      "id": 3
+    },
+    {
+      "name": "Cucumber",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 2.8,
+      "category": "Vegetable",
+      "id": 4
+    },
+    {
+      "name": "Orange",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 3.5,
+      "category": "Fruit",
+      "id": 5
+    },
+    {
+      "name": "Potato",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 2,
+      "category": "Vegetable",
+      "id": 6
+    },
+    {
+      "name": "Strawberry",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 5,
+      "category": "Fruit",
+      "id": 7
+    },
+    {
+      "name": "Zucchini",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 3.2,
+      "category": "Vegetable",
+      "id": 8
+    },
+    {
+      "name": "Grapes",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 4.7,
+      "category": "Fruit",
+      "id": 9
+    },
+    {
+      "name": "Broccoli",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 2.3,
+      "category": "Vegetable",
+      "id": 10
+    },
+    {
+      "name": "Pineapple",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 6,
+      "category": "Fruit",
+      "id": 11
+    },
+    {
+      "name": "Carrot",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 2.5,
+      "category": "Vegetable",
+      "id": 12
+    },
+    {
+      "name": "Cherry",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 4.5,
+      "category": "Fruit",
+      "id": 13
+    },
+    {
+      "name": "Spinach",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 2.2,
+      "category": "Vegetable",
+      "id": 14
+    },
+    {
+      "name": "Mango",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 5.5,
+      "category": "Fruit",
+      "id": 15
+    },
+    {
+      "name": "Cauliflower",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 3,
+      "category": "Vegetable",
+      "id": 16
+    },
+    {
+      "name": "Sour Cherry",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 4,
+      "category": "Fruit",
+      "id": 17
+    },
+    {
+      "name": "Red Pepper",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 3.2,
+      "category": "Vegetable",
+      "id": 18
+    },
+    {
+      "name": "Leek",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 2.7,
+      "category": "Vegetable",
+      "id": 19
+    },
+    {
+      "name": "Peach",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 4,
+      "category": "Fruit",
+      "id": 20
+    },
+    {
+      "name": "Pea",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 2.3,
+      "category": "Vegetable",
+      "id": 21
+    },
+    {
+      "name": "Pear",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 3.8,
+      "category": "Fruit",
+      "id": 22
+    },
+    {
+      "name": "Raspberry",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 6.2,
+      "category": "Fruit",
+      "id": 23
+    },
+    {
+      "name": "Radish",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 2.1,
+      "category": "Vegetable",
+      "id": 24
+    },
+    {
+      "name": "Walnut",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 7,
+      "category": "Fruit",
+      "id": 25
+    },
+    {
+      "name": "Watermelon",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 4.5,
+      "category": "Fruit",
+      "id": 26
+    },
+    {
+      "name": "Red Cabbage",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 3.3,
+      "category": "Vegetable",
+      "id": 27
+    },
+    {
+      "name": "Plum",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 4,
+      "category": "Fruit",
+      "id": 28
+    },
+    {
+      "name": "Quince",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 3.8,
+      "category": "Fruit",
+      "id": 29
+    },
+    {
+      "name": "Lettuce",
+      "imageURL": "https://cdn-icons-png.flaticon.com/512/679/679821.png",
+      "price": 2.2,
+      "category": "Vegetable",
+      "id": 30
+    }
+  ]
+}
